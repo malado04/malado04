@@ -1,4 +1,4 @@
-# Hi, I'm Amadou Malado NDIAYE 👋
+# Hi, I'm Amadou Malado NDIAYE 
 
 ### Software Engineer | Full Stack Developer | Software Architecture
 
