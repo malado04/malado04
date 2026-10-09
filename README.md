@@ -1,4 +1,4 @@
-# Hi, I'm Amadou Malado NDIAYE amdn.tech
+# Hi, I'm Amadou Malado NDIAYE 
 
 ### Software Engineer | Full Stack Developer | Software Architecture
 
@@ -233,7 +233,7 @@ I'm interested in:
 ### Find me online
 
 * 💼 LinkedIn: [Amadou Malado Ndiaye](https://www.linkedin.com/in/amadou-malado-dégnouma-ndiaye-128526372/)
-* 🌐 Website: [amdn.com](https://amdn.com)
+* 🌐 Website: [amdn.com](https://amdn.tech)
 * 💻 GitHub: [@malado04](https://github.com/malado04)
 
 ---
